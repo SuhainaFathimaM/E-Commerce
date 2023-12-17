@@ -1,0 +1,19 @@
+ nav{
+    background: rgb(116, 49, 250) !important;
+} 
+.nav-item:hover{
+    background: rgb(13, 202, 240);
+}
+.navbar-bran{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    cursor: pointer;
+}
+li{
+    list-style:square;
+}
+li:hover{
+    cursor: pointer;
+}
